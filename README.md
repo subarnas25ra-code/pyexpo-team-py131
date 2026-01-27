@@ -1,0 +1,5 @@
+In many colleges, students and parents face difficulty in obtaining accurate and timely information regarding admissions, courses, fees, facilities, placements, and other academic details. Traditional enquiry systems depend heavily on manual responses through phone calls or enquiry desks, which are time-consuming, inefficient, and limited to office hours. This often results in delayed responses, increased workload for administrative staff, and inconvenience to users.
+
+To overcome these limitations, there is a need for an automated system that can provide instant, reliable, and consistent information at any time. The College Enquiry Chatbot is proposed to act as a virtual assistant that interacts with users through natural language, understands their queries, and responds with relevant information related to the college.
+
+The chatbot will reduce human effort, improve user experience, and ensure 24×7 availability of information. It will serve as an effective platform for handling frequently asked questions and basic enquiries, thereby enhancing the efficiency of the college’s information system.
